@@ -20,6 +20,8 @@ It is the second largest city in the **East cost** of **India** after **Chennai*
 3. Destination has arrived enjoy the beaches and beautiful greenary.
 * Items to be brought
   * Nice pair of clothes
-  * shoes
+  * Shoes
   * Camera
-  * snacks
+  * Snacks
+    * chips
+    * Drinks
