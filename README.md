@@ -25,14 +25,17 @@ It is the second largest city in the **East cost** of **India** after **Chennai*
   * Snacks
     * chips
     * Drinks
-----
+---
 ## Creating table for famous foods/drinks available places
 | Items | Items available places | Approx pay |
 | ---   | ---       | ---:                    |
 | Bamboo chicken | Araku    | 500 rupess  |
 | panipuri       | India    |  50 rupees  |
 | Gongura mutton | Godavari | 1000 rupees |
-
+---
+## Adding new section called pithy quotes
+>"Actions speak louder than words." - *Abraham Lincoln
+>“Practice makes perfect.” – *Vince Lombardi
 
 
 
