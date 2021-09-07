@@ -19,7 +19,7 @@ It is the second largest city in the **East cost** of **India** after **Chennai*
    10. Turn right at Usman Kirana & General Stores onto NH 516
 3. Destination has arrived enjoy the beaches and beautiful greenary.
 * Items to be brought
-  * Nice pair of f  
+  * Nice pair of clothes  
   * Shoes
   * Camera
   * Snacks
